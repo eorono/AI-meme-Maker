@@ -1,0 +1,5 @@
+{
+  "name": "Meme Magic",
+  "description": "Generate hilarious memes in seconds. Upload an image or use a template, and let AI create the perfect caption. You can even use AI to edit the image with simple text prompts.",
+  "requestFramePermissions": []
+}
